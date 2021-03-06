@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-O EmcasaVet Research Group é um grupo independente de pesquisa sobre a interação humano animal fundado em 2021.
+O EmcasaVet Research Group é um grupo independente de pesquisa fundado em 2021 dedicado ao estudo veterinário de cães e gatos e da interação humano-animal .
