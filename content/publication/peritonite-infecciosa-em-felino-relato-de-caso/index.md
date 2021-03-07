@@ -17,7 +17,7 @@ url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 publication_types:
   - "1"
 authors:
-  - VanessaYoshidaOkamura
+  - Vanessa Yoshida Okamura
 publication: "XXXIV Semana Acadêmica de Medicina Veterinária "
 featured: true
 tags:
@@ -43,7 +43,7 @@ image:
   focal_point: SMART
   preview_only: false
   filename: 28-2-2019-g-ciclo.jpg
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: "#"
 url_code: "#"
 doi: ""
