@@ -40,7 +40,7 @@ links:
     url: http://example.org
 image:
   caption: ""
-  focal_point: SMART
+  focal_point: CENTER
   preview_only: false
   filename: 28-2-2019-g-ciclo.jpg
 publishDate: 2017-01-01T00:00:00.000Z
