@@ -1,6 +1,7 @@
 ---
 title: Vanessa Yoshida Okamura
 role: Mestranda em Clínicas Veterinárias
+avatar_filename: unnamed.jpg
 bio: Meus interesses de pesquisa englobam a Medicina Veterinária Baseada em
   Evidências, o atendimento veterinário a domicílio e a interação humano-animal
   no contexto tutor/animal de companhia.
