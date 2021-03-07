@@ -30,7 +30,7 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - Pesquisadores
+  - Researchers
 highlight_name: false
 ---
 
