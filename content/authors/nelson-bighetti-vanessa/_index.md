@@ -7,6 +7,7 @@ bio: Meus interesses de pesquisa englobam a Medicina Veterinária Baseada em
 interests:
   - Veterinária Baseada em Evidências
   - Veterinária a Domicílio
+  - Interação Tutor-Animal
 social:
   - icon: envelope
     icon_pack: fas
