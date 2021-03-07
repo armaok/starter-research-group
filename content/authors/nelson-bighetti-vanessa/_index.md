@@ -13,9 +13,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:consulta@emcasa.vet
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 organizations:
   - name: Universidade Estadual de Londrina
     url: https://portal.uel.br/home/
@@ -35,7 +32,6 @@ user_groups:
   - Researchers
 highlight_name: false
 ---
+Vanessa Okamura é mestranda de Clínicas Veterinária na Universidade Estadual de Londrina e líder do EmcasaVet Research Group . Seus interesses incluem Medicina Veterinária Baseada em Evidências, atendimento veterinário a domicílio e interação tutor-animal. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+É médica veterinária com experiência clínica e cirúrgica em animais de companhia, sendo fundadora do EmcasaVet Veterinária Clínica a Domicílio.
