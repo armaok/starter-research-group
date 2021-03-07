@@ -16,7 +16,7 @@ social:
 organizations:
   - name: Universidade Estadual de Londrina
     url: https://portal.uel.br/home/
-  - name: Emcasa Vet Veterinária Clínica a Domicílio
+  - name: EmcasaVet Veterinária Clínica a Domicílio
     url: https://emcasa.vet/
 education:
   courses:
