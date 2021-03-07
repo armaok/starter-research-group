@@ -1,43 +1,36 @@
 ---
-title: Nelson Bighetti Vanessa
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+title: Vanessa Yoshida Okamura
+role: Mestranda em Clínicas Veterinárias
+bio: Meus interesses de pesquisa englobam a Medicina Veterinária Baseada em
+  Evidências, o atendimento veterinário a domicílio e a interação humano-animal
+  no contexto tutor/animal de companhia.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Veterinária Baseada em Evidências
+  - Veterinária a Domicílio
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:test@example.org
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: mailto:consulta@emcasa.vet
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: Universidade Estadual de Londrina
+    url: https://portal.uel.br/home/
+  - name: Emcasa Vet Veterinária Clínica a Domicílio
+    url: https://emcasa.vet/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Mestrado Profissional em Clínicas Veterinárias (em andamento)
+      institution: Universidade Estadual de Londrina
+      year: ""
+    - course: Bacharelado em Medicina Veterinária
+      institution: Universidade Estadual de Londrina
+      year: 2017
 email: ""
 superuser: true
 user_groups:
-  - Researchers
+  - Pesquisadores
 highlight_name: false
 ---
 
