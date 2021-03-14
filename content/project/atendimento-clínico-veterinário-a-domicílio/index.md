@@ -5,7 +5,7 @@ draft: false
 featured: false
 external_link: emcasa.vet
 image:
-  filename: featured
+  filename: paula-vianna-pet-home-care-clientes-chavinho.jpg
   focal_point: Smart
   preview_only: false
 ---
