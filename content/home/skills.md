@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 11
 
-title: Áreas de Interesse
+title: Áreas de Pesquisa
 subtitle:
 
 # Showcase personal skills or business features.
