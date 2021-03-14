@@ -19,15 +19,15 @@ feature:
 - description: 90%
   icon: dog
   icon_pack: fas
-  name: Protocolos Terapêuticos Veterinários
-- description: 100%
-  icon: chart-line
+  name: Atendimento Veterinário a Domicílio
+- description:
+  icon: hospital
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: Diretrizes Terapêuticas Veterinárias
+- description: 
+  icon: cat
   icon_pack: fas
-  name: Photography
+  name: Interação Tutor-Animal
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
