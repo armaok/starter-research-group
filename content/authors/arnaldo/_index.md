@@ -20,12 +20,15 @@ organizations:
     url: https://emcasa.vet/
 education:
   courses:
-    - course: Mestrado Profissional em Clínicas Veterinárias (em andamento)
-      institution: Universidade Estadual de Londrina
+    - course: Graduação em Medicina Veterinária (em andamento)
+      institution: Universidade Norte do Paraná
       year: ""
-    - course: Bacharelado em Medicina Veterinária
+    - course: Pós-graduação em Nutrição Animal
+      institution: Universidade Unyleya
+      year: 2021
+    - course: Tecnólogo em Radiologia com experiência em Radiologia Veterinária
       institution: Universidade Estadual de Londrina
-      year: 2017
+      year: 2019
 email: ""
 superuser: false
 user_groups:
