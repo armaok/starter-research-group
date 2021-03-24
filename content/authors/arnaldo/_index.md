@@ -26,15 +26,12 @@ education:
     - course: Pós-graduação em Nutrição Animal
       institution: Universidade Unyleya
       year: 2021
-    - course: Tecnólogo em Radiologia com experiência em Radiologia Veterinária
-      institution: Universidade Estadual de Londrina
-      year: 2019
 email: ""
 superuser: false
 user_groups:
   - Researchers
 highlight_name: false
 ---
-Vanessa Okamura é mestranda de Clínicas Veterinária na Universidade Estadual de Londrina e líder do EmcasaVet Research Group . Seus interesses incluem Medicina Veterinária Baseada em Evidências, atendimento veterinário a domicílio e interação tutor-animal. 
+Arnaldo Okamura é professor de Administração na Universidade Estadual de Londrina e pesquisador do EmcasaVet Research Group . Seus interesses incluem Medicina Veterinária Baseada em Evidências, atendimento veterinário a domicílio e interação tutor-animal. 
 
 É médica veterinária com experiência clínica e cirúrgica em animais de companhia, sendo fundadora do EmcasaVet Veterinária Clínica a Domicílio.
