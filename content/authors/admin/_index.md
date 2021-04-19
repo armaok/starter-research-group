@@ -34,7 +34,7 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - Principal Investigators
+  - Researchers
 highlight_name: false
 ---
 Vanessa Okamura é mestranda de Clínicas Veterinária na Universidade Estadual de Londrina e líder do EmcasaVet Research Group . Seus interesses incluem Medicina Veterinária Baseada em Evidências, atendimento veterinário a domicílio e interação tutor-animal. 
